@@ -18,7 +18,11 @@ The site is currently being developed for San Jose Ramen Express, a local japane
 ## Contributers
 
 Justin Chang
+
 Thai Huynh
+
 Hugh Liang
+
 Ashesh Subedi
+
 Tommy Tran
