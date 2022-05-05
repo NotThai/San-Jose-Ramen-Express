@@ -15,7 +15,7 @@ The site is currently being developed for San Jose Ramen Express, a local japane
 - Firebase
 - Chrome/Safari/Edge
 
-## Contributers
+## Contributors
 
 Justin Chang
 
